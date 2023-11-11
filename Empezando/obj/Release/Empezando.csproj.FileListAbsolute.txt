@@ -1,0 +1,15 @@
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\bin\Release\Calculadora de porcentaje.exe.config
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\bin\Release\Calculadora de porcentaje.exe.manifest
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\bin\Release\Calculadora de porcentaje.application
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\bin\Release\Calculadora de porcentaje.exe
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\bin\Release\Calculadora de porcentaje.pdb
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Empezando.csproj.AssemblyReference.cache
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Empezando.FrmPrimcipal.resources
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Empezando.Properties.Resources.resources
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Empezando.csproj.GenerateResource.cache
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Empezando.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Calculadora de porcentaje.TrustInfo.xml
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Calculadora de porcentaje.exe.manifest
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Calculadora de porcentaje.application
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Calculadora de porcentaje.exe
+C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Release\Calculadora de porcentaje.pdb
