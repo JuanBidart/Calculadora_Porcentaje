@@ -67,7 +67,7 @@ namespace Empezando
                
 
             }
-            catch (Exception ex) { 
+            catch (Exception) { 
             
                 
                 MessageBox.Show("Error del Programa verifique los datos ingresados", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Stop);
@@ -76,6 +76,9 @@ namespace Empezando
             
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Clipboard.SetText(txtResultadoReal.Text);
+        }
     }
 }

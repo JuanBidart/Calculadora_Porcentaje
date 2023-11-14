@@ -119,35 +119,101 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="txtNumero.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 18</value>
-  </data>
-  <data name="txtNumero.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 35</value>
-  </data>
-  <data name="lblNumero.Location" type="System.Drawing.Point, System.Drawing">
-    <value>53, 29</value>
-  </data>
-  <data name="txtPorcentaje.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 143</value>
-  </data>
-  <data name="lblPorcentaje.Location" type="System.Drawing.Point, System.Drawing">
-    <value>177, 146</value>
-  </data>
-  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>56, 78</value>
-  </data>
-  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 43</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>53, 154</value>
+    <value>141, 22</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtNumero.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtNumero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 41</value>
+  </data>
+  <data name="rbSumar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 23</value>
+  </data>
+  <data name="rbSumar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="rbSumar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 20</value>
+  </data>
+  <data name="rbRestar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 23</value>
+  </data>
+  <data name="rbRestar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="rbRestar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 20</value>
+  </data>
+  <data name="lblNumero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 36</value>
+  </data>
+  <data name="lblNumero.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblNumero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 16</value>
+  </data>
+  <data name="txtPorcentaje.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 176</value>
+  </data>
+  <data name="txtPorcentaje.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtPorcentaje.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 41</value>
+  </data>
+  <data name="lblPorcentaje.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 180</value>
+  </data>
+  <data name="lblPorcentaje.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblPorcentaje.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 36</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 96</value>
+  </data>
+  <data name="groupBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="groupBox1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>249, 53</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 190</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 16</value>
+  </data>
+  <data name="btnCalcular.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 228</value>
+  </data>
+  <data name="btnCalcular.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="btnCalcular.Size" type="System.Drawing.Size, System.Drawing">
+    <value>587, 44</value>
+  </data>
   <data name="lvHistorial.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
+  <data name="lvHistorial.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 298</value>
+  </data>
+  <data name="lvHistorial.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
   <data name="lvHistorial.Size" type="System.Drawing.Size, System.Drawing">
-    <value>439, 120</value>
+    <value>585, 147</value>
   </data>
   <data name="notifyIcon1.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -289,22 +355,67 @@
 </value>
   </data>
   <data name="txtResultadoReal.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 12</value>
+    <value>113, 15</value>
+  </data>
+  <data name="txtResultadoReal.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtResultadoReal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 41</value>
   </data>
   <data name="lblResultado.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 16</value>
+    <value>32, 20</value>
+  </data>
+  <data name="lblResultado.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblResultado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 32</value>
   </data>
   <data name="txtResultadoComun.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 92</value>
+    <value>113, 113</value>
+  </data>
+  <data name="txtResultadoComun.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtResultadoComun.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 41</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 96</value>
+    <value>32, 118</value>
+  </data>
+  <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 32</value>
   </data>
   <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>275, 12</value>
+    <value>367, 15</value>
+  </data>
+  <data name="groupBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="groupBox2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 167</value>
+    <value>295, 206</value>
+  </data>
+  <data name="lblHistorial.Location" type="System.Drawing.Point, System.Drawing">
+    <value>328, 278</value>
+  </data>
+  <data name="lblHistorial.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblHistorial.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 20</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>736, 453</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -445,7 +556,13 @@
         gg==
 </value>
   </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
   <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>570, 415</value>
+    <value>754, 500</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>754, 500</value>
   </data>
 </root>

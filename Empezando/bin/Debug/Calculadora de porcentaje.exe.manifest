@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Calculadora de porcentaje.exe" size="59376">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Calculadora de porcentaje.exe" size="63472">
       <assemblyIdentity name="Calculadora de porcentaje" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tQ8AbQT4DEbtjpRXObABVj8JJwGSV2yBKkDNt2SfYko=</dsig:DigestValue>
+        <dsig:DigestValue>6W5CTa8JnwqTWnbYdlAijJLNSwHCuIjOEuV3jrXtKgY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es-US\Calculadora de porcentaje.resources.dll" size="24064">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es-US\Calculadora de porcentaje.resources.dll" size="33280">
       <assemblyIdentity name="Calculadora de porcentaje.resources" version="1.0.0.0" language="es-US" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yGuQ5ef1TfUCXT/z38f5T2OAv6UychDzVs2EnbfopCM=</dsig:DigestValue>
+        <dsig:DigestValue>2NxKz07s2t7uE6fktsXjh1sbqVwL7vwvrhVzq/7sn0E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

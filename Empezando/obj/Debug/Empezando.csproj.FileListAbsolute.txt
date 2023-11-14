@@ -20,3 +20,21 @@ C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\bin\Debug\es-US
 C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Debug\es-US\Calculadora de porcentaje.resources.dll
 C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Debug\Empezando.FrmPrincipal.resources
 C:\Users\Juan Diego\Desktop\Proyectos_visual\Empezando\Empezando\obj\Debug\Empezando.FrmPrincipal.es-US.resources
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\bin\Debug\Calculadora de porcentaje.exe.config
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\bin\Debug\Calculadora de porcentaje.exe.manifest
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\bin\Debug\Calculadora de porcentaje.application
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\bin\Debug\Calculadora de porcentaje.exe
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\bin\Debug\Calculadora de porcentaje.pdb
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\bin\Debug\es-US\Calculadora de porcentaje.resources.dll
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Empezando.csproj.AssemblyReference.cache
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Empezando.FrmPrincipal.resources
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Empezando.Properties.Resources.resources
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Empezando.FrmPrincipal.es-US.resources
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Empezando.csproj.GenerateResource.cache
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Empezando.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\es-US\Calculadora de porcentaje.resources.dll
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Calculadora de porcentaje.TrustInfo.xml
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Calculadora de porcentaje.exe.manifest
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Calculadora de porcentaje.application
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Calculadora de porcentaje.exe
+C:\Users\juand\Desktop\Programas\calcu\Calculadora_Porcentaje\Empezando\obj\Debug\Calculadora de porcentaje.pdb

@@ -47,6 +47,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.lblHistorial = new System.Windows.Forms.Label();
+            this.btnCopiar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -87,9 +88,9 @@
             // 
             // groupBox1
             // 
-            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Controls.Add(this.rbRestar);
             this.groupBox1.Controls.Add(this.rbSumar);
+            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
@@ -107,9 +108,9 @@
             // 
             // lvHistorial
             // 
-            resources.ApplyResources(this.lvHistorial, "lvHistorial");
             this.lvHistorial.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lvHistorial.HideSelection = false;
+            resources.ApplyResources(this.lvHistorial, "lvHistorial");
             this.lvHistorial.Name = "lvHistorial";
             this.lvHistorial.TabStop = false;
             this.lvHistorial.UseCompatibleStateImageBehavior = false;
@@ -141,11 +142,12 @@
             // 
             // groupBox2
             // 
-            resources.ApplyResources(this.groupBox2, "groupBox2");
+            this.groupBox2.Controls.Add(this.btnCopiar);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.txtResultadoComun);
             this.groupBox2.Controls.Add(this.lblResultado);
             this.groupBox2.Controls.Add(this.txtResultadoReal);
+            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.TabStop = false;
             // 
@@ -153,6 +155,13 @@
             // 
             resources.ApplyResources(this.lblHistorial, "lblHistorial");
             this.lblHistorial.Name = "lblHistorial";
+            // 
+            // btnCopiar
+            // 
+            resources.ApplyResources(this.btnCopiar, "btnCopiar");
+            this.btnCopiar.Name = "btnCopiar";
+            this.btnCopiar.UseVisualStyleBackColor = true;
+            this.btnCopiar.Click += new System.EventHandler(this.button1_Click);
             // 
             // FrmPrincipal
             // 
@@ -199,6 +208,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label lblHistorial;
+        private System.Windows.Forms.Button btnCopiar;
     }
 }
 
